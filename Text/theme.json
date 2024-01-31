@@ -1,0 +1,30 @@
+{
+    "button":
+     {
+         "colours":
+         {
+             "normal_bg": "#804EFF,#EF65FF,0",
+             "hovered_bg": "#520DFF,#C200D6,0",
+             "active_bg": "#520DFF,#C200D6,0",
+             "normal_text": "#FFFFFF",
+             "hovered_text": "#FFFFFF",
+             "normal_border": "#804EFF,#EF65FF,0",
+             "hovered_border": "#520DFF,#C200D6,0",
+             "active_border": "#520DFF,#C200D6,0"
+         },
+
+         "font":
+         {
+             "name": "Devant",
+             "size": "28",
+             "regular_path": "Font/Devant.ttf"
+         },
+
+         "misc":
+         {
+             "shape": "rounded_rectangle",
+             "shape_corner_radius": "18",
+             "tool_tip_delay": "1.5"
+         }
+     }
+ }
