@@ -19,7 +19,7 @@ To play Squarathon, you'll need to have Python and Pygame installed on your comp
 
 1. Clone the repository:
 
-   ``git clone https://github.com/yourusername/squarathon.git``
+   ``git clone https://github.com/sliao082/squarathon.git``
 
 2. Navigate to the cloned directory:
    
